@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/antiSpam.iml" filepath="$PROJECT_DIR$/antiSpam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diplom_antispam.iml" filepath="$PROJECT_DIR$/diplom_antispam.iml" />
     </modules>
   </component>
 </project>
